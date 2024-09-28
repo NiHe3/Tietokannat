@@ -6,7 +6,7 @@
 
 # Tietokannan suunnittelu harjoitukset
 
-![ruudunkaappaus](2-1.png)
+![ruudunkaappaus](2.1.png)
 
 # Yhteen tauluun kohdistuvien kyselyiden harjoitukset
 
